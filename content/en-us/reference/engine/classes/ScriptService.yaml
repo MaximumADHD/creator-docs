@@ -3,11 +3,9 @@ type: class
 category:
 memory_category: Instances
 summary: |
-  An unimplemented service that has zero functionality, in a similar manner to
-  the `LocalWorkspace` service.
+  Unused service which has no functionality at present.
 description: |
-  An unimplemented service that has zero functionality, in a similar manner to
-  the `LocalWorkspace` service.
+  Unused service which has no functionality at present.
 code_samples:
 inherits:
   - Instance
